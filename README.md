@@ -10,9 +10,9 @@
 
 Hi ha 2 documents, un per a cada nivell.
 
-- **Nivell 1**: per arribar al 5
+- **Nivell 1**: nivell1.ipynb
 
-- **Nivell 2**: per arribar al 10
+- **Nivell 2**: nivell2.ipynb
 
 Quan calgui escriure una resposta, **has d'escriure les respostes als espais indicats a cada document**.
 
